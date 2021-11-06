@@ -1,5 +1,5 @@
 {
-    "name": "soundhub_vk",
+    "name": "@soundhub/soundhub_vk",
     "version": "1.0.0",
     "description": "Nodejs plugin for parsing audio from vk.com",
     "repository": {
